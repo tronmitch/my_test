@@ -109,7 +109,7 @@ function writeToFile(fileName, data) {
         readmestr += ` * [Installation](#installation)\n`
         readmestr += ` * [Usage](#usage)\n`
         readmestr += ` * [Contributions](#contributions)\n`
-        readmestr += ` * [License](#License)\n`
+        readmestr += ` * [License](#license)\n`
         readmestr += ` * [Test](#test)\n`
         readmestr += ` * [Questions](#questions)\n`
         readmestr += `## Installation\n`
@@ -118,7 +118,7 @@ function writeToFile(fileName, data) {
         readmestr += `${response.usage}\n\n`
         readmestr += `## Contributions\n`
         readmestr += `${response.contrib}\n\n`
-        readmestr += `## License`
+        readmestr += `## License\n`
         readmestr += `#### ${response.license}\n`
         readmestr += `${license_content}\n\n`
         readmestr += `## Test\n`

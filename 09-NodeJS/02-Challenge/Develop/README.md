@@ -19,7 +19,8 @@ You will see a version number if already installed. To install go [Node](https:/
 ## Contributions
 Theron Mitchell, Node js, Stackover flow and my awesome instructors
 
-## License ### GNU
+## License 
+#### GNU
 Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
         Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
